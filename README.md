@@ -1,10 +1,10 @@
-# Name of Machine
-Explanation of the Machine
+# recalling-machine
+A Machine that recalls what was memorized.
 <pre>
-  pip install name-of-the-machine
+  pip install recalling-machine
 </pre>
 Then:
 ```Python
   # Python
-  import name_of_the_machine
+  import recalling_machine
 ```
